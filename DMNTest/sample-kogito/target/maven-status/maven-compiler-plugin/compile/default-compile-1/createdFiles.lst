@@ -1,0 +1,13 @@
+org\kie\kogito\app\ConfigBean.class
+org\kie\kogito\app\RuleUnits.class
+org\drools\project\model\ProjectRuntime.class
+org\drools\project\model\ProjectModel.class
+org\kie\kogito\app\ApplicationConfig.class
+org\kie\kogito\app\RuleConfig.class
+org\kie\kogito\app\DecisionModels.class
+https_58_47_47kiegroup_46org_47dmn_47__71E28031_4541D3_4542E2_459FEA_457B88C05814A9\TestResource.class
+org\kie\kogito\app\GlobalObjectMapper.class
+org\kie\kogito\app\Application.class
+org\kie\kogito\app\GlobalObjectMapper$1.class
+org\kie\kogito\app\DecisionConfig.class
+org\kie\kogito\app\DecisionModelResourcesProvider.class
